@@ -40,9 +40,9 @@
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=250 align="center" alt ="Denmar's Github Stats" src="https://github-readme-stats-onetongues-projects.vercel.app/api?username=OneTongue&theme=tokyonight&bg_color=00000000&rank_icon=github" />
+  <img height=200 align="center" alt ="Denmar's Github Stats" src="https://github-readme-stats-onetongues-projects.vercel.app/api?username=OneTongue&theme=tokyonight&bg_color=00000000&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=250 align="center" alt ="Denmar's Top Languages" src="https://github-readme-stats-onetongues-projects.vercel.app/api/top-langs/?username=OneTongue&theme=tokyonight&bg_color=00000000&card_width=320" />
+  <img height=200 align="center" alt ="Denmar's Top Languages" src="https://github-readme-stats-onetongues-projects.vercel.app/api/top-langs/?username=OneTongue&theme=tokyonight&bg_color=00000000&card_width=320" />
 </a>
 
