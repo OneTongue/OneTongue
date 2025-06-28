@@ -1,7 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="assets/frieren.gif">
- <source media="(prefers-color-scheme: light)" srcset="assets/frieren.gif">
- <img alt="Denmar's Banner" src="assets/frieren.gif">
+ <source media="(prefers-color-scheme: dark)" srcset="assets/expedition_33.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="assets/expedition_33.jpg">
+ <img alt="Denmar's Banner" src="assets/expedition_33.jpg">
 </picture>
 
 ---
