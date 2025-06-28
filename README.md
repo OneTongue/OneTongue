@@ -1,7 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtkcDF3NGs4d3Zram9pNDcyZGdpbzhobTB5ZHZ4dWo3am5hMnM1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eHQ5BsgBIBIGI/giphy.gif">
- <source media="(prefers-color-scheme: light)" srcset="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtkcDF3NGs4d3Zram9pNDcyZGdpbzhobTB5ZHZ4dWo3am5hMnM1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eHQ5BsgBIBIGI/giphy.gif">
- <img alt="Denmar's Banner" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtkcDF3NGs4d3Zram9pNDcyZGdpbzhobTB5ZHZ4dWo3am5hMnM1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eHQ5BsgBIBIGI/giphy.gif">
+ <source media="(prefers-color-scheme: dark)" srcset="assets/frieren.gif">
+ <source media="(prefers-color-scheme: light)" srcset="assets/frieren.gif">
+ <img alt="Denmar's Banner" src="assets/frieren.gif">
 </picture>
 
 ## Hi, I'm Denmar!
