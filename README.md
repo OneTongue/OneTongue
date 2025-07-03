@@ -5,8 +5,8 @@
 </picture>
 
 ---
-> Think lightly of yourself and deeply of the world.
-— Miyamoto Musashi
+> For Those Who Come After, Right?
+— Gustave
 ---
 
 # Hi, I'm Denmar!
