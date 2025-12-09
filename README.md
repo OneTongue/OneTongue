@@ -11,7 +11,7 @@
 
 # Hi, I'm Denmar!
 
-### I'm currently a 2nd Year Computer Science student at the [Polytechnic University of the Philippines](https://www.pup.edu.ph/)<br/>
+### I'm currently a 3nd Year Computer Science student at the [Polytechnic University of the Philippines](https://www.pup.edu.ph/)<br/>
 
 - 📊 I'm an aspiring Data Scientist because I love statistics </br>
 - 🧠 At the moment, I'm currently learning Exploratory Data Analysis, along with the Python libraries for it
